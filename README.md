@@ -3,4 +3,4 @@ Aplicación para android que permite gestionar plantas entre otras funcionalidad
 
 # Mockups
 
-![alt text](https://github.com/ingJuanPablo/HerbarioHUQ/Login.png)
+![alt text](https://raw.githubusercontent.com/ingJuanPablo/HerbarioHUQ/master/Login.png)
