@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/margen_superior_segundo_linear"
+    android:layout_marginLeft="@dimen/margen_linear_ajustes"
+    android:layout_marginRight="@dimen/margen_linear_ajustes"
+    android:background="@color/colorPrimary"
+    android:layout_centerInParent="true"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title_informacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/title_ayuda"
+        android:textColor="@color/colorTitleToolbar"
+        android:textSize="@dimen/title_informacion"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTitleToolbar"
+        android:elevation="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/margen_superior_segundo_linear"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/lbl_pais"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/sugerencias"
+            android:textColor="@color/colorTitleToolbar"
+            android:textStyle="bold"
+            android:layout_weight="2"/>
+
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/arrow_right"
+            android:contentDescription="@string/arrow_nav_right"/>
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/margen_superior_segundo_linear"
+        android:layout_marginBottom="@dimen/margen_superior_segundo_linear"
+        android:layout_marginRight="@dimen/margen_linear_ajustes"
+        android:layout_marginLeft="@dimen/margen_linear_ajustes">
+        <TextView
+            android:id="@+id/lbl_idioma"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/califica_la_aplicacion"
+            android:textStyle="bold"
+            android:layout_weight="2"/>
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/arrow_right"
+            android:contentDescription="@string/arrow_nav_right"/>
+
+    </LinearLayout>
+
+</LinearLayout>

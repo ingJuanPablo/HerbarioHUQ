@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">HerbarioHUQ</string>
+    <string name="title_toolbar">Herbario HUQ</string>
+    <string name="subtitle_toolbar">150 especies</string>
+    <string name="subtitle_log">25 plantas enviadas</string>
+    <string name="descripcion_menu_izquierdo">Este menú permite desplegar un menú de opciones a la izquierda de la pantalla</string>
+    <string name="plantas">plantas</string>
+    <string name="Ajustes">Ajustes</string>
+    <string name="img_planta">Esta imagen será la que contiene la imagen de la planta en el cardview</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_ajustes">Ajustes</string>
+    <string name="title_informacion">Información</string>
+    <string name="lbl_pais">Pais</string>
+    <string name="lbl_idoma">Idioma</string>
+    <string name="icono_bandera">Esta imagen representa la bandera del pais desde donde se utiliza la aplicacion</string>
+    <string name="arrow_nav_right">Esta imagen permite la navegacion</string>
+    <string name="agregar_planta">Agregar Planta</string>
+    <string name="img_atras">Imagen para la navegación atras</string>
+    <string name="plana_photo">Imagen de la planta seleccionada</string>
+    <string name="title_detalle">Datos de la planta</string>
+    <string name="familia">Familia</string>
+    <string name="texto_defecto">default</string>
+    <string name="subfamilia">SubFamilia</string>
+    <string name="tribu">Tribu</string>
+    <string name="genero">Genero</string>
+    <string name="especie">Especie</string>
+    <string name="lugar_de_encuentro">Lugar de encuentro</string>
+    <string name="sugerencias">Sugerencias</string>
+    <string name="califica_la_aplicacion">Califica la aplicación</string>
+    <string name="title_ayuda">Ayuda</string>
+    <string name="title_activity_example_navigation_drawer">ExampleNavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="open_drawer_content_desc">Open navigation drawer</string>
+    <string name="close_drawer_content_desc">Close navigation drawer</string>
+    <string name="title_login">Herbario HUQ</string>
+    <string name="inicio_de_sesion">Inicio de sesión</string>
+    <string name="herbario_huq_gmail_com">herbario.huq@gmail.com</string>
+    <string name="imagen_sobre_el_navigation_drawer">imagen sobre el navigation drawer</string>
+    <string name="inicio_de_sesi_n">Inicio de Sesión</string>
+    <string name="form_registro">Formulario de registro</string>
+    <string name="registro">Registro</string>
+    <string name="herbario_huq">Herbario HUQ</string>
+    <string name="imagen_para_ir_hacia_la_actividad_principal">imagen para ir hacia la actividad principal</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="correo">Correo</string>
+    <string name="clave">Clave</string>
+    <string name="has_olvidado_tu_clave"><u>¿Has olvidado tu clave?</u></string>
+    <string name="a_n_no_te_encuentras_registrado">¿Aún no te encuentras registrado?</string>
+    <string name="registrate"><u>Regístrate</u></string>
+    <string name="title_buscar">Buscador</string>
+    <string name="hint_busqueda">Busqueda</string>
+    <string name="registro_nombre">Nombre</string>
+    <string name="registro_apellido">Apellido</string>
+    <string name="registro_email">Email</string>
+    <string name="registro_telefono">Teléfono</string>
+    <string name="registro_profesion">Profesión</string>
+    <string name="registro_password">Password</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="mis_plantas">Mis plantas</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="todas_las_plantas">Todas las plantas</string>
+    <string name="familia_planta">Familia</string>
+    <string name="subfamilia_planta">SubFamilia</string>
+    <string name="tribu_planta">Tribu</string>
+    <string name="genero_planta">Genero</string>
+    <string name="especie_planta">Especie</string>
+    <string name="detalle_del_lugar_planta">Detalle del lugar</string>
+    <string name="enviar_planta">Enviar</string>
+</resources>

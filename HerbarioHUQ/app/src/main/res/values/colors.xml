@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#E89E0C</color>
+    <color name="colorTitleToolbar">#616F53</color>
+    <color name="colorTextGray">#494949</color>
+    <color name="colorDetallePlanta">#EAF5DF</color>
+    <color name="hint_color_login">#C2CBB9</color>
+    <color name="color_hint_buscar">#C3CCBA</color>
+</resources>

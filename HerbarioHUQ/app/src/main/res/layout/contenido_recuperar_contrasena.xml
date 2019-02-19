@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/showpopupshadow"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Space
+            android:layout_width="580dp"
+            android:layout_height="11dp"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/txtclose"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_gravity="end"
+            android:layout_weight="1"
+            android:background="@android:drawable/btn_dialog"
+            android:gravity="center"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|fill_horizontal|center"
+        android:layout_marginBottom="15dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/titleBuscador"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="fill_horizontal|center"
+            android:gravity="fill_vertical|center_horizontal|center"
+            android:text="Recuperación de contraseña"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/edit_text_buscar"
+        android:hint="Email"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textColorHint="@color/color_hint_buscar" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/button_login_bg"
+        android:text="Enviar"
+        android:textColor="@color/colorPrimary" />
+
+</LinearLayout>

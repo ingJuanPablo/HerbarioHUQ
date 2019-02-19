@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "729786261828",
+    "firebase_url": "https://herbariohuq-75a7d.firebaseio.com",
+    "project_id": "herbariohuq-75a7d",
+    "storage_bucket": "herbariohuq-75a7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729786261828:android:8f9ebcb915d6a533",
+        "android_client_info": {
+          "package_name": "co.edu.uniquindio.moviles.herbariohuq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729786261828-g98mbo3g8ig2eborh1apcarql8c70pk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.uniquindio.moviles.herbariohuq",
+            "certificate_hash": "a5a10f36f980718b561d3ea040a38b1ad9323d71"
+          }
+        },
+        {
+          "client_id": "729786261828-5ho5br3ltm6sccss2tsun1oa7nqtt00f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe88HHJwQESaWEhXi8t1_4FO6gsKU7v5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729786261828-2stct121io2lfkgqb4om288vbdg5ujh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
