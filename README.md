@@ -19,7 +19,7 @@ Aplicación para android que permite gestionar plantas entre otras funcionalidad
 
 ![alt text](https://raw.githubusercontent.com/ingJuanPablo/HerbarioHUQ/master/Documents/Images/MenuFiltro.png)
 
-![alt text](https://raw.githubusercontent.com/ingJuanPablo/HerbarioHUQ/master/Documents/Images/Motivos del rechazo.png)
+![alt text](https://raw.githubusercontent.com/ingJuanPablo/HerbarioHUQ/master/Documents/Images/Motivos \del \rechazo.png)
 
 ![alt text](https://raw.githubusercontent.com/ingJuanPablo/HerbarioHUQ/master/Documents/Images/Navigation Drawer.png)
 
